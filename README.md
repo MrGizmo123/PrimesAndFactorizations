@@ -1,5 +1,5 @@
 # PrimesAndFactorizations
-List of all primes less than 1 million, and list of prime factorizations of all natural numbers less than 1 million
+List of all primes less than 1 million, and list of prime factorizations of all natural numbers less than 1 million. The factorizations are split into two files because of github's upload limit, first contains 500000 entries, second contains 499999 entries
 
 ## Formatting
 
